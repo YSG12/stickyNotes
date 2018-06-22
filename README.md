@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+Sticky Notes 随手便笺
+----
 
-You can use the [editor on GitHub](https://github.com/YSG12/stickyNotes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+*这是一个随用随删的一个小应用，使用者可使用该便笺进行记录一些接下来要做的事情的一个小Demo [体验地址](https://stavyan.github.io/stickyNotes/)*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 总目录
 
-### Markdown
+欢迎大家推荐好的 App/产品 加入，请`Star`、`Pull Request`或在 [收集&提交页] 中提交 :)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## 关于
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#### 支持正版：
 
-1. Numbered
-2. List
+软件开发者和作家一样，有的只是代码和文字。
+在条件允许的情况下，请支持正版，有了良好的生态环境，App 开发者们会做出更多好玩的东西。
 
-**Bold** and _Italic_ and `Code` text
+#### 感谢所有参与推荐的朋友
 
-[Link](url) and ![Image](src)
-```
+本推荐 List 会不断更新维护，会有更多分类和利器加入推荐。
+感谢此处\[[收集&提交页]\]参与提交和讨论的朋友们
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[<< 查看总目录]
 
-### Jekyll Themes
+#### License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YSG12/stickyNotes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Released under [MIT] LICENSE
 
-### Support or Contact
+#### 扩展阅读
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+@stavyan 创立了一个微信公众号：StavY视界
+
+ -- 专注于分享 Mac 使用经验和技巧，打造 Mac 神兵利器。  --
+![MacTips](http://ww4.sinaimg.cn/large/644eac00gw1evn89qmu5aj20by0byaav.jpg)
