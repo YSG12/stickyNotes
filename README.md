@@ -30,6 +30,5 @@ Released under [MIT] LICENSE
 #### 扩展阅读
 
 @stavyan 创立了一个微信公众号：StavY视界
-
- -- 专注于分享 Mac 使用经验和技巧，打造 Mac 神兵利器。  --
+*专注于分享 Mac 使用经验和技巧，打造 Mac 神兵利器。*
 ![MacTips](http://ww4.sinaimg.cn/large/644eac00gw1evn89qmu5aj20by0byaav.jpg)
