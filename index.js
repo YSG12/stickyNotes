@@ -2,7 +2,6 @@
  *@author stav
  *
  **/
-
 //名字空间模块
 var app = {
     util: {},
